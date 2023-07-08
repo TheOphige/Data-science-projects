@@ -1,0 +1,66 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNtIAguSyIwdbu7Q6cePkCT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TheOphige/Data-science-projects/blob/master/using%20colab\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# ingest"
+      ],
+      "metadata": {
+        "id": "rdg9vfWD-gvT"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# EDA"
+      ],
+      "metadata": {
+        "id": "RSVtrjTq-keM"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Modelling"
+      ],
+      "metadata": {
+        "id": "pFwoKJut-lf2"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# conclusion"
+      ],
+      "metadata": {
+        "id": "MGa4VQKb-l9H"
+      }
+    }
+  ]
+}
